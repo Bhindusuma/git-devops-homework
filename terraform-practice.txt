@@ -1,0 +1,2 @@
+terraform is infrastructure as a code where we build resources 
+using code.
